@@ -2,6 +2,10 @@
 
 Mi primer proyecto con JavaScript: una página web con un contador que se puede subir, bajar y reiniciar con tres botones, para practicar el DOM y los eventos.
 
+## Captura
+
+![Contador mostrando el número 0 y los botones +1, -1 y Reiniciar](captura.png)
+
 ## Demo
 
 [Ver el contador funcionando](https://jdanielrojasj.github.io/contador/)
